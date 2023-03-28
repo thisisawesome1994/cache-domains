@@ -1,6 +1,11 @@
 {
 	"cache_domains": [
 		{
+			"name": "websites",
+			"description": "Websites cache",
+			"domain_files": ["websites.txt"]
+		},
+		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["arenanet.txt"]
