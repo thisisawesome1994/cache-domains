@@ -1,6 +1,7 @@
-*.youtube.com
+watch.youtube.com
 youtube.com
-*.google.com
+www.youtube.com
+www.google.com
 google.com
 www.nu.nl
-*.nu.nl
+nu.nl
